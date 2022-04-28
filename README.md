@@ -1,2 +1,2 @@
 # subsurface-explorations
-A testing repository for GemPy and GeoPandas.
+A testing repository for Lasio, GemPy and GeoPandas.
